@@ -21,7 +21,7 @@ function AboutSection() {
             shadow-[0_0px_40px_rgba(59,130,246,0.7)]">
             <img
               className="absolute"
-              src="public/ak.3.jpg"
+              src="/ak-1.jpg"
               alt="img"
               width="100%"
               height="100%"

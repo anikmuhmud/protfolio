@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 
 const HeroPage = () => {
   return (
-    <div id="hero" className=" flex items-center justify-center">
+    <div id="home" className=" flex items-center justify-center">
       <div className="max-w-7xl w-full mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 px-6 py-12">
         
         
@@ -11,7 +11,7 @@ const HeroPage = () => {
           <div className="w-[250px] sm:w-[320px] md:w-[400px] lg:w-[500px] h-[250px] sm:h-[320px] md:h-[400px] lg:h-[500px] rounded-full relative flex justify-center items-center overflow-hidden border-4 border-white shadow-[0_0px_40px_rgba(59,130,246,0.7)]">
             <img
               className="absolute w-full h-full object-cover"
-              src="public/ak.3.jpg"
+              src="/ak.3.jpg"
               alt="img"
             />
           </div>

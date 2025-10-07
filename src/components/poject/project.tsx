@@ -3,28 +3,28 @@ import { motion } from "framer-motion";
 function Projects() {
   const projects = [
     {
-      img: "public/w-3.jpeg",
+      img: "/w-3.jpeg",
       title: "Gaming Website",
       desc: "A personal portfolio website built with React and TailwindCSS.",
       link: "#",
       border: "border-purple-950",
     },
     {
-      img: "public/w-6.jpg",
+      img: "/w-6.jpg",
       title: "Food Blog",
       desc: "A task management app with CRUD features using React + TypeScript.",
       link: "#",
       border: "border-amber-300",
     },
     {
-      img: "public/w-7.jpg",
+      img: "/w-7.jpg",
       title: "Book Shop Website",
       desc: "Responsive admin panel with charts and analytics features.",
       link: "#",
       border: "border-gray-600",
     },
     {
-      img: "public/w-4.png",
+      img: "/w-4.png",
       title: "Portfolio Website",
       desc: "A personal portfolio website built with React and TailwindCSS.",
       link: "#",
